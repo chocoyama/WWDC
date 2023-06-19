@@ -1,0 +1,71 @@
+- macro
+  - 便利な使い方
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/9b269001-5797-4818-8a4b-9f47dc7bfe3c"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/b7cf289b-4713-4be7-ae45-8bd73b83a866"/>
+- SwiftUIで追加されたもろもろのやつ
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f33c9635-caea-407e-b536-25eb24a5b4ed"/>
+- アニメーションまわりの機能追加が豊富そう
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/118377bb-9de3-4304-b277-544520635b03"/>
+- SFSymbolsでアニメーション
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/d2ae8e43-1199-43d1-aedb-ef9022883331"/>
+- AnimationPhaseってやつでフェーズことのアニメーション状態を定義しやすくなった
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c4c41463-a8ca-4f10-a616-199f9ba93541"/>
+- Keyframeってやつで異なった動きのアニメーションを繋げていくことが出来るっぽい感じ
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a0219961-8d77-478c-8249-a1f2e5a6158f"/>
+- マクロのパワーでこれがこれに 
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0b6918f1-d825-45f6-8c1e-ab31d36cad98"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/aff7b176-9abd-46f1-867d-46f9844e0229"/>
+- これもこうできるらしい
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/93dd779c-85ff-4f81-840c-f8e1243acc4b"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a965c6c7-bc75-408c-b868-a44207c43dda"/>
+- CoreDataをラップしてるのかな
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0b185bb7-b414-4ce8-88ff-151d067a85ae"/>
+- モデル定義はこれだけ
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/05325b0a-a7c0-4d80-98f3-9b19f735a033"/>
+- こんなに簡単だよっていうサンプルコード
+  - undo/redoもできる
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/3d333d0b-430e-4c95-9d6c-c20f9e7aaf0b"/>
+- ウィジェットにインタラクションを追加できるようになったやーつ
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5b92c0c0-a17e-4441-8741-2c4f8228318a"/>
+- 標準のオンボーディング用コンポーネントがきたっぽい
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4de8eb00-6253-40c4-be20-8d2420ebfecb"/>
+- ScreenCaptureKit
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/7cc659c0-f8ff-44d3-84a7-7dfb9970e863"/>
+- watchOSのページネーション
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/fb30aaca-c5ea-44df-8fb7-cfc11970fb85"/>
+- 課金画面を自分で作らなくても良い方法が追加された？
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f9d8495f-f84b-43d0-9224-c4e4e144d9aa"/>
+- R.swift的なやつこれか
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f68d8a80-bd10-45da-b3fa-c55a9acacf10"/>
+- これがこう
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5b9a7b5c-ea5f-4da0-acf8-b9d41ee76277"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0538357d-9bcb-4b89-8368-21540f025386"/>
+- Xcode Cloud早くなったらしい
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/86d18088-c311-49e5-8aba-d3178859644e"/>
+- テスターノートを載せられるように
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1a04e466-94b2-4d28-b8fb-ca281e047cdf"/>
+- 早くなった話
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/79bc9b21-da16-41f1-9838-be51f5b2341b"/>
+- Xcodeのサイズが減った
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c956fbc8-93dc-45f4-aef4-602b5d4bebaf"/>
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/026a9350-0476-44f4-9ef9-25dc69a00831"/>
+- visionOSのスタックと要素
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/81f3bbce-d775-4510-8a04-f9e165dd2e7f"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/01f77309-5380-446d-94c8-6965eb1084c8"/>
+- 3D表現
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/271951fa-d23c-4e73-9be7-91c872ad95c7"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/3431f23c-ff83-4e82-98f9-b7c904226ac2"/>
+- RealityKit
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c4aa214a-e281-4024-8794-31aa37b52d1f"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/9bc2334d-1a17-4c87-839f-eebb393decef"/>
+- 現実のライトニングが反映される
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/b979f9d8-6206-4613-ab61-02aecc539ed7"/>
+- RealityView
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/241e3a30-2fe9-4c0f-868e-538216571ca1"/>
+- ARKitとの関連
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/632af72c-0d58-459d-a321-b2a4793c3ad7"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/aea1a7e1-68b9-40f3-bbb5-7f7aacfdf38e"/>
+- これにハンドトラッキングが加わる
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/2a229f08-7484-45be-9b3a-8258f92664d4"/>
+- シミュレーターはこんな感じ
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f4e58843-d640-4ba1-a430-fa12521c6d72"/>
+- 未来感のある開発風景
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/12234bc4-f282-44e7-a4c3-76929e74f520"/>
+- Reality Composer Proってやつで3Dオブジェクトを用意する 
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0143f9a8-fc4c-4d24-9308-e4c6ddae96e6"/>
+- 3Dオブジェクトをゴニョゴニョしてる様子
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/09d98fbe-2cae-4462-9bd8-7ee9edf5bc8a"/>
+- XcodePreviewsでそれを表示させている様子 （編集済み） 
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/2af859fc-8da6-4f6f-bfbd-4ca4dcdb9e07"/>

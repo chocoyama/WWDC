@@ -1,0 +1,69 @@
+- RealityViewのサンプルコード
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1ce7595d-a3c7-47f7-9e4c-f47ff264b025"/>
+- watchOS上での各コンポーネントの表示
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/e8972061-1c0c-4506-9f77-4dcc09b3e2a5"/>
+- Widgetで、インタラクションだけでなく、アニメーションも使えるようになった
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/257702c1-44cb-44bc-b31f-4d7d91630ee8"/>
+- macroを活用したPreviewの宣言
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a67414ff-5387-4457-b296-30ff20f5435d"/>
+- 指定したタイムラインごとの表示をアニメーション付きでPreviewする
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/999347ba-207b-42f0-8c55-1168361924b6"/>
+- MapKitのSwiftUI対応
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/7f169df4-19b3-4e60-a309-52feb84148f3"/>
+- Chartsのスクロール関連アップデート
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c61997e8-5f49-41a3-ba60-4daf642b9703"/>
+- よさそう
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f3a2fb48-e754-4d9e-964c-d2bf5b1c290d"/>
+- SctorMarkの追加
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f26131b4-da0d-4d3a-8f4e-13c766e7be73"/>
+- Apple標準の課金画面
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0edd617b-625b-40b2-be7c-b6d8c8ebd4a7"/>
+- Observableのアノテーションを付与すればPublishedの指定が必要なくなる
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/55c5de79-9f79-4adf-a4c2-2d0f3a7d306a"/>
+- View側でのアノテーション付与も不要
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c5d75f35-e75e-412e-9844-a91318806040"/>
+- BindingによるView間のバケツリレーが必要なくなりそう
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/d5d9e363-d730-491a-a058-d89aa22380a8"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/97b88244-da7f-4273-85e9-c15443c3f51f"/>
+- SwiftData
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/2c4a2b4b-4f8d-455e-a72e-c6640bd6650f"/>
+- @Observableを@Modelに変更、Observableの特性を残したまま永続化される
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/bb82e235-8e4e-4b08-8a89-419a7d666382"/>
+- モデルをAppに知らせる
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/3111031a-8fbf-4f19-a11a-a3578b3d4ea0"/>
+- View側では従来@Stateで状態を参照していた箇所を@Queryに変更、Stateと同様にデータに変更があった場合は自動反映される
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f0c1702d-9224-42c3-a792-ed59e112a478"/>
+- sort
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4ae96ba8-9291-4b75-b7de-a025f97dd75a"/>
+- でかいデータでも効率的に処理される
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/6203d850-e697-438f-aa8c-950381f3755c"/>
+- Inspector
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/05cf5d9d-9e5e-4b92-a82c-776e4a76a0e3"/>
+- Dialog関連のアップデート
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/ce2277c4-689e-4229-aec4-d798eded63d6"/>
+- Tableのカラム移動とかが簡単にできるようになったっぽい？
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4106eafa-bbdb-40c3-b5e0-15aa375554dd"/>
+- DisclosureがTableにも
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/49b86227-01c9-4819-834f-d8e49902b721"/>
+- Keyframe Animator API
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/51ace6c9-3707-4282-8bcb-71abff754de6"/>
+- Keyframe animatorよりシンプルなPhase animator
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f4b1aa23-f7b2-499c-b543-b659bf58a414"/>
+- フェーズのシーケンスを渡してスタートさせる
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/65022325-38ea-44e6-a8c7-6b5f6e84ca0b"/>
+- Keyframe animatorほどカスタマイズ性はないけど、単純にアニメーションのフェーズを複数定義して順番に実行させるぐらいであればこっちで良さそうって感じかな
+- Haptic feedbackのSwiftUI対応
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/db8c0622-7d43-4ebe-95b5-39bd54fcdf92"/>
+- custom Metal shaderを使った柔軟なテキスト表現
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/e8460bc8-5819-45d6-9c95-7918f6e34a5b"/>
+- SFSymbolsのアニメーションを適用する方法
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f6177d53-31f7-4e93-aa43-d28e64fe6f32"/>
+- 新しいModifier
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/004c3615-6d3d-45b0-9ab8-dc539d5ef640"/>
+- scrollTransitionよさそう
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5b27d2d8-3194-478c-8a86-1b68aa5ac602"/>
+- この辺りの変更のうれしさがイマイチ掴めなかったので、後で動かしてみたいやつ
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0bcdacc1-6830-4162-b93b-158bdf8e9c1b"/>
+- 先頭のIDをキャッチするIFは使い所ありそう
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/42f4533e-a4db-4e98-91ea-db5c04438a49"/>
+- カスタムのカラーが自動で型付けされる
+  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/337653f0-c08e-4066-978f-91b763f00606"/>
