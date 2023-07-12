@@ -1,24 +1,25 @@
 - if文が式に
-  - <img width="641" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/629d1b16-d6ba-4097-8913-146822cc9f92"><img width="641" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0632e06c-c293-41ac-84e8-561be3aa8ceb">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/69a1e8e0-b86c-40a5-8d24-35d8a8ea6059">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/1ec7e2c1-d52e-475e-aa45-77d81f9fd33c">
 - ResultBuilderのパフォーマンスが向上し、エラーフィードバックもより適切なものに
 - parameter packs (Generics)
   - `each` で宣言する
-  - <img width="634" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/ea42dadc-e8ad-4716-a58e-5a629e7973e2"><img width="631" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c66b2c1b-f011-4c55-b729-33576ea5bbc8">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/eee8ef4c-2e85-4585-adb7-62f0533847ae">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/36a65deb-2c02-4cf8-8b23-7ce6136056f3">
 - macro
   - assertの機能を強化しているサンプル
-  - <img width="624" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/d880a9f4-6ddd-41cc-8e0a-21abdbc4e675"><img width="631" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1f3efac7-9e8e-4478-aa29-73470026a7cb">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3e13a09b-db40-43f5-a219-15a30e51b136">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/b345f603-856d-425a-8cbf-5ff131142be0">
 - `macro` キーワードを付与して宣言する
-  - <img width="639" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/9603f405-0f6a-4011-b3e7-b2415ade0799">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0b4bef32-b87c-40e2-9a2c-3364b6e01c26">
 - `freestanding`マクロ
-  - <img width="625" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4a4fb348-772f-4cc0-9526-bbf0b7719400">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/830f8183-fbe4-4b74-a0ec-ba71a4cfd164">
 - `attaced`マクロ
-  - <img width="627" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f587fc99-1dbd-42bf-83f5-09d562748f8c"><img width="627" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1238a33b-8698-4864-bb54-1afe5f336ece"><img width="624" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/cc6461a3-9225-433f-8967-cce8ccef8766"><img width="871" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1a461729-d189-497c-805f-28abc6988c4c">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/cae660b1-03dc-46af-b502-66d54d650411">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f5903f9a-5d0f-4da4-a366-eec2e9e20712">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/ab1484e9-2ea0-4793-9843-c68967ba86b0">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0f29e45c-3396-4216-9965-8956edc31132">
 - マクロでの抽象化を外すとこんな感じのイメージ
-  - <img width="641" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/3808f0f7-f9a2-4cb4-9002-66fc8133ad95">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/4a971884-37df-4690-b877-8708f423f884">
 - Expandして表示することもできる
-  - <img width="636" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/ca1b115a-a49c-4264-be64-6f88ec38520d">
-
-
-
-
-
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/68126cc6-8e29-441e-835d-f8093f8ef5a3">
