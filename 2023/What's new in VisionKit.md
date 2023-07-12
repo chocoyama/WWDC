@@ -1,37 +1,35 @@
 # Subject Rifting
 
-- <img width="624" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0ca50c9f-7519-4435-9d30-f07e6772acd7">
-- <img width="623" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/582e14d6-178f-4103-a073-fdb490d20685">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/e22bccfa-2619-4597-83f6-da3f2ce03c87">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/43c828b3-87f8-4472-9909-8bb113799865">
 
 # Visual Look Up
 
-- <img width="614" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/079e558e-dc89-4d9e-9f9a-50d8fddc3c1e">
-- <img width="597" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/8bd2622c-cd10-4a53-b4e0-ea2a7c1b89d6">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/254feca7-9b80-4596-9f65-42a22b75dafa">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/c7126da6-1542-430f-a5e6-62103591407e">
 - 実装方法1
   - `.visualLookup` をConfigurationに指定する
-  - <img width="616" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/b75f4944-6b1a-4109-bde2-3d9c7401ccb2">
-  - <img width="611" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/851ea679-ed7c-40e8-a210-cf435e96320a">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/1e33f724-2bb7-43d3-86a5-92ebee9e5f52">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/caf1fd29-65f4-4a8b-a396-4809bba96785">
 - 実装方法2
   - バッジが表示されるパターン
-  - <img width="617" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/700edb80-c918-4c09-b82a-2f353dd79df2">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0fb8a6c8-0952-4aaa-897c-5ecdd965e6a3">
 
 # Data Scanner
 
-- <img width="622" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/bfcc7ee1-1e3f-494c-9905-87b058c7b029">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/d83d1a99-5504-4c93-bdda-50e6cc222fdc">
 - 挙動が安定化
-  - <img width="627" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/202cd266-3b90-45aa-9075-1cd48b2cf388">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/1b71b998-4a13-49a6-8fb0-ecf871acbbf1">
 - いくつか条件がある
   - テキストを認識するときのみ利用可能で、MachineReadableCodeでは利用できない
   - 特定のテキストコンテンツタイプを未設定にすることが要求される
   - 高フレームレート・トラッキングが有効になっている（デフォルトON）
 - 通貨サポート
-  - <img width="630" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/238b7360-28f6-4ba7-9d32-d5657f748d10">
-  - <img width="616" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5670f3f3-ed4f-4a42-9640-303432c515b2">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/98f63667-244e-41a1-a7ea-2b56ea4e14f7">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/46b09227-3db2-4578-baa6-0de0f2dab38e">
 - テーブルのサポート
-  - <img width="635" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/84ebb3eb-c857-4ddb-9dda-578fd56586be">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/03fee860-f4f7-4c5e-9b1b-5046b800d04f">
 - 周辺の情報を一気に取り込める
-  - <img width="623" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a9160140-9ba1-4c62-859b-9059211fcaed">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/52fd4078-8216-4f5e-ac8a-8c048d49fceb">
 - テキストへのアクセス
-  - <img width="623" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f2cdcb6d-06b9-4f15-846f-cea7d7d8dabd">
-
-
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/66a45605-ff1d-42db-8572-93524454aad9">
