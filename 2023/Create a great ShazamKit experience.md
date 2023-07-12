@@ -4,29 +4,29 @@
 - オーディオバッファを設定する手間をかけずに、自動的に録音開始を代行する
 - マイクのUsage descriptionをInfo.plistに定義
 - Single Match
-  - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/63094d51-a49a-440b-a873-a720be24b0fc">
+  - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/32532788-bdb9-41e9-9f1d-04808c2c0b67">
 - Continuous Match
-  - <img width="633" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4a9bc34e-724a-4955-974a-4a63e93027e9">
+  - <img width="633" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/ac9bdd16-25d6-442f-a2af-29be1cb0f9e7">
 - キャンセル
-  - <img width="626" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/9a196ba5-ad86-4c0f-8866-e57f872d0045">
+  - <img width="626" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/70514051-d5cf-49d3-bff8-2bd5ee7b4625">
 - トラッキングのBefore/After
-  - <img width="634" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/517311c5-d8ed-49b5-b7bd-742f4b6bed67">
-  - <img width="636" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/394bebd8-fd97-411a-897e-e5e195c81f47">
+  - <img width="634" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/b8c73a5b-aba3-4b5a-affc-057ea24e9c0b">
+  - <img width="636" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/7ac78b06-64be-4964-b25d-533f9bd148b8">
 - キャンセルのBefore/After
-  - <img width="637" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/2ac59032-eb3d-4bb9-b63c-77e820800f6e">
-  - <img width="638" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/8f2cbf24-78aa-4690-aa78-de5c351b08bd">
+  - <img width="637" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/8a2a1386-ff1d-4eb4-a862-3d6d0a17e269">
+  - <img width="638" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/4fb8299a-2c4f-435f-b976-e950256b9cab">
 - prepareメソッドの活用によるパフォーマンスの向上
   - prepareを利用しない場合
-    - <img width="634" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/d1d12268-fb0a-42be-b926-e93d48ad2dae">
+    - <img width="634" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/bf7de70b-ab85-47b0-a5e6-19c84dec1527">
   - prepareを利用する場合
-    - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/bbfd20e0-f95f-46bf-87d4-7960a403ae2e">
+    - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/21ab1bbd-235a-4209-a416-753e1a9577d7">
 - Stateの取得が可能
-  - <img width="624" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/6b7ee0a3-64d8-449b-b651-7f2e9f4f5e84">
-  - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a3db62f9-4c97-48ff-809a-785e964caf9d">
-  - <img width="629" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/743cdf3f-6d12-4364-b4aa-75ea14a30f0e">
-  - <img width="628" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/97e958ba-7bba-475c-baa7-2dc0805ac08e">
+  - <img width="624" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/eb76eeb6-6ff9-4bce-b7f2-110d60c39602">
+  - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/973ca002-6613-42a6-b772-2d45c47e8750">
+  - <img width="629" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/07017bb6-bbd3-4bdb-83e1-2c108c7b083e">
+  - <img width="628" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/f0ab73b4-6128-41cd-98e8-10e55adf23ba">
   - Observableに準拠しているので、UIへの状態反映もしやすい
-- <img width="627" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/2a62ece7-be47-4cb9-a98d-668c7e707f19">
+- <img width="627" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/6f81681a-1d19-48c7-ae67-b9afc9e0fa99">
 
 # SHLibrary
 
@@ -37,6 +37,6 @@
 
 - カスタムカタログに類似した音声が2ビット以上ある場合、複数の参照シグネチャに一致するクエリーシグネチャを渡すと、カスタムカタログからすべてのマッチを返すことができるようになった
   - マッチは最高のマッチ品質でソートされて返され、適切なマッチ結果をフィルタリングすることができる
-  - <img width="630" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/677680fb-f201-4e11-b0b0-45623ff6df2c">
-  - <img width="618" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/76f6a7dc-c84f-4a4c-89ab-ef2e561e19a4">
+  - <img width="630" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/c2a95fb0-7fd1-4f9f-92fd-0767290da517">
+  - <img width="618" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/5d35f2e0-3628-4287-9719-ca4bf92e49ff">
 
