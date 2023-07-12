@@ -1,12 +1,12 @@
 - 新たに4箇所で表示できるようになった
-  - <img width="632" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/502ee94a-dbc5-466e-9941-085f65d3d5db">
+  - <img width="632" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/35eb2dcf-e9f0-438d-b5a0-9a040e0bb7e9">
 - `containerBackground` を利用することで、システムに適した背景色が適用されるようになる
-  - <img width="629" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f6cc1c40-c8ba-4c88-b59a-b563ae7b92e1">
+  - <img width="629" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/dc2a8c4e-26e4-47dc-bfc2-4a27a737ea98">
 - StandByモードでの表示時には背景色が取り除かれたりする
-  - <img width="628" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/833932ab-8003-4354-bcce-3cb30fdd830c">
+  - <img width="628" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/ef86ffcf-eff8-4225-97d8-72d0176aa600">
 - Xcode Previewsで確認可能
-  - <img width="632" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/91556ba9-eee9-40ef-925a-e4bcc9aff4ea">
+  - <img width="632" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/5dc200af-c5e2-4b20-9a67-8d2a56918174">
 - `showsWidgetContainerBackground` のEnvironmentで状態を取得することもできる
 - コンテキストによっては、視認性が損なわれる場合もある
-  - <img width="642" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/9b4809ee-6b55-4a03-a9e9-c9c4a9031a97">
+  - <img width="642" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/97519885-ca82-48ff-b516-2c445e39b0a5">
 - `widgetRenderingMode` のEnvironmentを参照し、状態に適した表示に切り替えることで問題を回避することができる
