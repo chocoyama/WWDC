@@ -1,68 +1,68 @@
 # Widget
 
 - Intentの設定がコードで行えるようになった
-  - <img width="617" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/6a5cf9ef-afbc-4c34-952b-3fec126dba76">
-  - <img width="612" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/19cda0fe-8604-4839-908f-9bcabc8f966a">
-  - <img width="628" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/cee12ddf-bfbd-478e-8584-d258142119d9">
-  - <img width="608" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/8697a341-1286-4a22-baf3-b7cd6b42afb0">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/ea501588-8832-46fc-8796-d14be1f73cc1">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/ff12a983-fb84-4115-ac48-bc14e8e0c909">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/8476daf1-3895-4caf-95ba-5acf5dafa0b7">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/954a0a67-44fa-4191-85e3-141b266f850f">
 - ちなみに以前はこんな感じで定義していた
-  - <img width="632" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4cad1dd3-34af-4911-8d97-474e4b7139d6">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/1b11da93-f232-4146-a7a7-fe3233049366">
 - 旧定義からのコンバートも1クリックで行える
-  - <img width="629" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/493a5b1c-76ae-4bae-9bd1-8560ef26e0fe">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/20038a50-f2c6-4eba-b7ee-4a322fbb6115">
 - Widget用に作成したIntentはそのままShortcutにも流用できる
   - Widgetのインタラクションに用意したIntentも、ShortcutのActionとして使える
 
 # Dynamic options
 
-- <img width="612" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a486bb20-f9a6-4818-8b31-a95b38d141ce">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/880895a1-b160-4cf9-b0db-a12ec9e7e5a9">
 - DynamicOptionsProviderまたはQuery内のIntentからパラメータにアクセスするためのプロパティラッパーである `IntentParameterDependency` がiOS17で追加
 - `ShowNextBus`AppIntentの `busStop` パラメータが指定されている場合のみ値を返却している例
-  - <img width="616" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/681cade0-88d7-453d-ad5a-cc4182194805">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3c000d78-8dc1-4f0c-a315-20132c3c91b9">
 - 複数指定も可
-  - <img width="617" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f63fa6c4-5e2b-451d-80a1-6d05c5bcbb42">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/9529ae9a-6b7d-4c05-a771-482c6d283592">
 - Arrayのサイズ指定が可能になった
-  - <img width="622" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/7b4622b2-1029-4e81-ac87-363ea81c635f">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/a549c7c4-2d74-4101-ae1e-fb74cd4b0244">
 - `ParameterSummary` を使うと、どのパラメータをどのような条件で表示するかを定義することができる
-  - <img width="621" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1365c644-6556-4846-b451-44725e35e17e">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f1d4f445-ff85-406c-be16-6224c4a8fa2b">
 - 条件を指定することも可能
-  - <img width="623" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/9c1b1ab9-89fe-4bc5-be38-ecddb5d1f658">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/a204c03c-8224-42d1-91aa-ea985db5401d">
 
 # UserActivity
 
 - WidgetをタップしてAppが起動した時の引き継ぎ処理
-  - <img width="622" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/afa1338c-e5a4-434d-927f-61551a692b59">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/5008441f-c911-4c96-94fb-aad54984d251">
 - RelevantContext APIを使えば、このIntentとその関連する日付範囲を指定することができる
-  - <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/d9361516-32f7-4c56-8b65-372de0df9470">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/45e21589-99d0-4209-bed1-857d20be682c">
   - 関連する日付情報を提供することで、ウィジェットは自動的にスマートスタック内で提案され、最も重要なときにアクセスできるようになる
 
 # AppIntentsPackage
 
 - Framework化することが可能に
-  - <img width="623" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/50e339fc-468c-4dae-a721-92f173eceed2">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/d9a634b4-fa49-4a87-8aef-8da978bb9874">
 
 # ForegroundContinuableIntent
 
 - 最初はバックグラウンドで作業を開始するが、フォアグラウンドでの継続を要求する必要があるかもしれない Intent のために設計されたプロトコル
   - ネットワークなどの問題などによって失敗した場合に、Appを起動して続きの作業を行うなどのユースケースに用いることができる
-- <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/80af3091-3a30-4485-8b49-97aac483355b">
-- <img width="610" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/3fdcb098-7b0f-4189-a452-2bec75c8b467">
-- <img width="626" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5f7e0d72-bfef-4151-9a9f-8199b2d88cbc">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0ec8cc5a-ebbd-45a2-9945-50b495b9d063">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/5580614a-a284-43bb-91e5-89ac6d1e27dd">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/de591c71-dee7-474f-8a32-a5747de661c9">
 
 # ApplePay
 
 - AppIntentで使えるように
-  - <img width="632" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5dc8cf5e-7fb8-4164-afbc-0de10e9b6c0d">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/45767569-5b25-4f2d-85c0-202e48d790fe">
 
 # Shortcut
 
-- <img width="619" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f95981eb-3433-4881-95d8-5fc5f2e424a9">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/cb5619ac-8a4f-4c63-a7c8-543961416bf1">
 - ParameterSummaryを指定することで伝わりやすいショートカットになる
-  - <img width="628" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c8841628-0bcb-448e-ad56-f50b526e71bd">
-  - <img width="624" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/ccfc24a9-5191-4ed5-81ef-c892e93da451">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/014e5464-540d-4387-80e8-0a1dd4d6a8b7">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/cc64faca-bcde-4593-a9d9-ddeea0c3826b">
 - `isDiscoverable` をfalseにすることで、ショートカットとしては実行できないようにできる
-  - <img width="622" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/3057c12d-e191-4c95-89f4-63dff6c05e93">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/29683507-12f5-43b3-ac98-5945d506ad43">
 - 進捗状況を伝えることが可能になった
-  - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a0c81c0d-5c96-4b76-b3de-e8c1b4cb0cd7">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0efaabbf-ec32-480f-baaf-7797e37303a0">
 - `EntityPropertyQuery` だけでなく `EnumerableEntityQuery Protocol` で検索アクションに対応することが可能になった
-  - <img width="612" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/358e3716-aeda-40f5-a683-7460f8e782b1">
-- <img width="617" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/41620589-98db-4ae9-8faf-826acf86a909">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/61fd054b-badc-4d1a-814d-66687f5d562f">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/36da6d73-edb1-416a-8626-508351071f80">
