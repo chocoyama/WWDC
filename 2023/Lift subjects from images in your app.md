@@ -8,38 +8,28 @@
 # VisionKit
 
 - `ImageAnalysisInteraction` を初期化してImageViewにセットするだけ
-  - <img width="631" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/984b1c70-da82-4594-a386-82b29658f6fb"><img width="634" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5304b0c9-5a0e-4d23-a1d1-7ff55567da69">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/19881303-036f-4763-a25d-e931950957a0">
 - shadowの付け方
-  - <img width="633" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c94dd871-fed9-4e5e-a50e-8616bd3d0d0e"><img width="630" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/9c5c888c-8905-4065-bae5-5154abf40fff">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/cfd2d18c-7358-4092-9231-07bb7fe1cde0">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/83ab1547-d5ce-46df-b708-8c9e82396035">
 
 # Vision
 
-- <img width="632" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/035b3716-72d0-4b3d-a0ef-8774edc797c2">
-- <img width="635" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/01620777-5e46-4aca-a3cf-605c7d7877fd"><img width="621" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c9d251ea-5a2f-44e0-bf9d-79732ac0a152">
-- <img width="625" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/719bcabe-544f-4e3f-9219-fd7f6bf0c90a">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f9ec4df9-fd9c-4e48-adf8-89cfb52fdb99">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/61040a0c-5577-41ed-8210-1d5010963281">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f92fa0f6-12b9-4676-ae64-ccdef1faa7ff">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/95359881-6993-42fa-9116-67267bfa6c95">
 - 背景を変更するアプリが簡単に作れそう
-  - <img width="625" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1708ba4a-9a2b-47e9-9d4b-2787970e83df">
-  - <img width="625" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/13819e58-d696-408c-abc0-91022997a94b">
-  - <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/99abb2cc-7c70-4f08-a29e-ed7315815a6b">
-  - <img width="632" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/fa921f53-16de-4615-bd86-bdcbe1c919eb">
-  - <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/e23a3894-8bf4-44bf-8389-713a4c56aba4">
-  - <img width="615" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5b381a19-e43c-44ce-bc25-cf8b483c9530">
-  - <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/20a63673-2cbc-4f5a-89a9-8ee129b1c39e">
-  - <img width="621" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/31f810e4-e1d6-4f93-9d33-ba3b23658141">
-  - <img width="607" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/67d15bf6-d73d-4451-8c82-452ddb539181">
-  - <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/7a8eba55-a1c9-4232-9566-fd64b45358c3">
-  - <img width="621" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/d2662dcd-5551-4a69-902a-933d7588629c">
-  - <img width="622" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/6624b435-1670-4c08-82a8-e8f1d11b08b4">
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/6ccf0a12-2f91-44e2-afa4-93a9c6af7c27">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/7dd919ea-8a2c-43c3-ad35-5749fda9e8b5">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/4f2f0509-3ec2-43ad-86fa-3aca4a537d8e">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/98e9d3ca-25af-4ac3-bad7-6b7c745dc234">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/71a21683-56a6-44da-b83b-2b8a454d7b7c">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/807eba08-bd14-4088-bc4a-7ba734801bd2">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/602dde1f-ee4b-4f4e-a7c6-4f9909e157b4">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/de9ed700-b0b2-483f-bd35-0196a8dae4c4">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/8c055170-8b9c-446a-83f8-95781f1ff678">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3a8dd4e6-ad00-47c2-8864-25e34ecd6246">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/b551cfbc-565a-4b8c-97cd-5f3335636030">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/40fdaa53-5775-49de-b20f-f450204783f6">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3795acc5-5a19-45f0-b3b4-a3b1734a2c64">
