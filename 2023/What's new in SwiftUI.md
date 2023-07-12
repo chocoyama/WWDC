@@ -1,43 +1,43 @@
 - RealityViewのサンプルコード
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1ce7595d-a3c7-47f7-9e4c-f47ff264b025"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3dcfac3b-4546-468c-8029-42f3098dae84">
 - watchOS上での各コンポーネントの表示
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/e8972061-1c0c-4506-9f77-4dcc09b3e2a5"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/cf53d8f5-5433-4771-9984-f59d60154ecf">
 - Widgetで、インタラクションだけでなく、アニメーションも使えるようになった
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/257702c1-44cb-44bc-b31f-4d7d91630ee8"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/2a988973-2968-485b-b2eb-ea2209ac8217">
 - macroを活用したPreviewの宣言
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/a67414ff-5387-4457-b296-30ff20f5435d"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/ea0adfe7-6542-4566-ac16-38d04e5e2a18">
 - 指定したタイムラインごとの表示をアニメーション付きでPreviewする
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/999347ba-207b-42f0-8c55-1168361924b6"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/2b4905f2-b467-49dc-baa9-6967dcf44b3b">
 - MapKitのSwiftUI対応
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/7f169df4-19b3-4e60-a309-52feb84148f3"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0d4920f8-34ca-40a5-8870-69f0bb2ec14e">
 - Chartsのスクロール関連アップデート
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c61997e8-5f49-41a3-ba60-4daf642b9703"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/1a8cb677-ebb7-4975-962b-bf6f34354c64">
 - よさそう
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f3a2fb48-e754-4d9e-964c-d2bf5b1c290d"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f5309639-c7c3-4750-a870-aeb2195be907">
 - SctorMarkの追加
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f26131b4-da0d-4d3a-8f4e-13c766e7be73"/>
+  - 
 - Apple標準の課金画面
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0edd617b-625b-40b2-be7c-b6d8c8ebd4a7"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3f16da4e-ebe9-4a37-ac31-336c1ce48da9">
 - Observableのアノテーションを付与すればPublishedの指定が必要なくなる
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/55c5de79-9f79-4adf-a4c2-2d0f3a7d306a"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/d6418734-ea13-4b1e-9aab-f3c24e091faf">
 - View側でのアノテーション付与も不要
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/c5d75f35-e75e-412e-9844-a91318806040"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/a0857687-2085-449d-9a51-9d4cf1e4e616">
 - BindingによるView間のバケツリレーが必要なくなりそう
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/d5d9e363-d730-491a-a058-d89aa22380a8"/><img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/97b88244-da7f-4273-85e9-c15443c3f51f"/>
-- SwiftData
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/2c4a2b4b-4f8d-455e-a72e-c6640bd6650f"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/000394f6-30d1-4644-84f2-130598375811">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/12eb04b7-0161-4370-a581-a010134ea0ae">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/14d23b7c-8b84-41f0-a7fa-c00676f78a58">
 - @Observableを@Modelに変更、Observableの特性を残したまま永続化される
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/bb82e235-8e4e-4b08-8a89-419a7d666382"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/580f772a-0e40-4d53-9181-96587469ff5e">
 - モデルをAppに知らせる
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/3111031a-8fbf-4f19-a11a-a3578b3d4ea0"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/cbc7fea7-06d3-4dad-b3d6-935d8a63b7eb">
 - View側では従来@Stateで状態を参照していた箇所を@Queryに変更、Stateと同様にデータに変更があった場合は自動反映される
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f0c1702d-9224-42c3-a792-ed59e112a478"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/13876936-62c2-4b2d-b1c5-f533a367934b">
 - sort
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4ae96ba8-9291-4b75-b7de-a025f97dd75a"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/26a95944-8220-4025-b05c-2b278432ac93">
 - でかいデータでも効率的に処理される
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/6203d850-e697-438f-aa8c-950381f3755c"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f729efea-030f-44df-ab44-0469671ef0fe">
 - Inspector
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/05cf5d9d-9e5e-4b92-a82c-776e4a76a0e3"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/126393b0-3b40-45e8-b472-2068a6f96f01">
 - Dialog関連のアップデート
   - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/ce2277c4-689e-4229-aec4-d798eded63d6"/>
 - Tableのカラム移動とかが簡単にできるようになったっぽい？
@@ -67,3 +67,28 @@
   - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/42f4533e-a4db-4e98-91ea-db5c04438a49"/>
 - カスタムのカラーが自動で型付けされる
   - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/337653f0-c08e-4066-978f-91b763f00606"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
