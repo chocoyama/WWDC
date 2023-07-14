@@ -1,18 +1,18 @@
 # カスタムカタログの活用
 
 - SignatureGeneratorを利用すると、オーディオバッファを「参照」シグニチャーに変換できる
-  - <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/362b838e-756a-4d67-b0e5-5b661da35259">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/06a5eedd-b946-4e5d-a609-2d5625f2b29c"/>
 - shazamsignatureファイル形式を用いると、カタログにシグネチャーを追加することができる
   - これはデバイス間で共有できる
-- <img width="639" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/48d4b35a-7f1b-4e76-9fa9-b2baf42f7e84">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/8fff4ca7-8b2d-44b3-b99c-4eca3ee7209e"/>
 - Info.plistの設定
-  - <img width="638" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/2c18837c-6690-48fe-ab35-b0eb4f1806f5">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f63497fe-c9cc-4571-8dbf-7521667d066c"/>
 - マッチング
-  - <img width="640" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/6c5fec72-f052-4d3e-9b11-def0481d8ca4">
-  - <img width="636" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/f6e2bb30-6a1c-4c54-8343-cc0e672c658e">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/a09b1272-c093-41d6-bf81-8adb8191a165"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/8aa2e375-8cf6-4916-99bb-9379bb5dadd7"/>
 - デリゲートのハンドリング
   - 取得したメディア情報のoffsetを参照して、対象となるoffsetをプロパティにもつインスタンスを特定している
-  - <img width="638" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/bc756661-4034-418e-a446-9d0814155065">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0e5dc975-0fab-474f-9908-ea1d0e780a4b"/>
 
 ＃ Best practices
 
