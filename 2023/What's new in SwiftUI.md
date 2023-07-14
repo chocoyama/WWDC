@@ -15,7 +15,7 @@
 - よさそう
   - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f5309639-c7c3-4750-a870-aeb2195be907">
 - SctorMarkの追加
-  - 
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/be8284be-5097-4db1-9631-524c2d159d2b">
 - Apple標準の課金画面
   - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3f16da4e-ebe9-4a37-ac31-336c1ce48da9">
 - Observableのアノテーションを付与すればPublishedの指定が必要なくなる
@@ -39,47 +39,34 @@
 - Inspector
   - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/126393b0-3b40-45e8-b472-2068a6f96f01">
 - Dialog関連のアップデート
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/ce2277c4-689e-4229-aec4-d798eded63d6"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/bfac4c70-d04a-48c7-8f44-b22e4fd0b449"/>
 - Tableのカラム移動とかが簡単にできるようになったっぽい？
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/4106eafa-bbdb-40c3-b5e0-15aa375554dd"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/2ea75602-b78c-4a6a-be4a-1a38463848ef"/>
 - DisclosureがTableにも
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/49b86227-01c9-4819-834f-d8e49902b721"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/3dc15b56-5bc0-41aa-acf5-bd4f1532d6cf"/>
 - Keyframe Animator API
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/51ace6c9-3707-4282-8bcb-71abff754de6"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/85322a1c-d41e-4efe-9366-682e3fdcf533"/>
 - Keyframe animatorよりシンプルなPhase animator
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f4b1aa23-f7b2-499c-b543-b659bf58a414"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/25ee6802-5057-4a49-9a1e-1baff85cd67d"/>
 - フェーズのシーケンスを渡してスタートさせる
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/65022325-38ea-44e6-a8c7-6b5f6e84ca0b"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/31d47dda-1816-4d35-8394-0ab27eebe99c"/>
 - Keyframe animatorほどカスタマイズ性はないけど、単純にアニメーションのフェーズを複数定義して順番に実行させるぐらいであればこっちで良さそうって感じかな
 - Haptic feedbackのSwiftUI対応
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/db8c0622-7d43-4ebe-95b5-39bd54fcdf92"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/27f74009-7150-4f2f-a060-972cb94e95ce"/>
 - custom Metal shaderを使った柔軟なテキスト表現
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/e8460bc8-5819-45d6-9c95-7918f6e34a5b"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/fe5aa070-db8d-43e2-81e5-5afad8bf7763"/>
 - SFSymbolsのアニメーションを適用する方法
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/f6177d53-31f7-4e93-aa43-d28e64fe6f32"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/14f8e84a-7ba8-48e6-b073-74df795b1caa"/>
 - 新しいModifier
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/004c3615-6d3d-45b0-9ab8-dc539d5ef640"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/7d008327-f9a2-4939-9b76-6cd9dd1b3636"/>
 - scrollTransitionよさそう
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/5b27d2d8-3194-478c-8a86-1b68aa5ac602"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/9a34bbb0-7cd8-433c-b9f7-b7a01326b0bb"/>
 - この辺りの変更のうれしさがイマイチ掴めなかったので、後で動かしてみたいやつ
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/0bcdacc1-6830-4162-b93b-158bdf8e9c1b"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/5f84bd07-39b4-412a-beae-250643d809cf"/>
 - 先頭のIDをキャッチするIFは使い所ありそう
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/42f4533e-a4db-4e98-91ea-db5c04438a49"/>
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/000f12da-8427-439c-b3ca-8b509b767f94"/>
 - カスタムのカラーが自動で型付けされる
-  - <img width="300" src="https://github.com/chocoyama/WWDC2023/assets/7239831/337653f0-c08e-4066-978f-91b763f00606"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/9dbac58e-778d-48ca-9b2d-8f04c33376d3"/>
 
 
 
