@@ -68,8 +68,4 @@
 
 #### visionOS
 
-- <img width="300" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/b14939bc-d99d-44b3-af66-bfccf4aee3be"><img width="300" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/1e7df0c5-6651-498b-9554-d5f1647c0048"><img width="300" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/71d1a18b-aa00-4c37-90cb-8fad04bb1fe6"><img width="300" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/05f9cee1-a336-4760-8a63-7da9471aa1df"><img width="300" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/bf97da07-ee83-47b3-8a8d-8e9ed381ba93"><img width="300" alt="image" src="https://github.com/chocoyama/WWDC2023/assets/7239831/05f9cee1-a336-4760-8a63-7da9471aa1df">
-
-![image](https://github.com/chocoyama/WWDC/assets/7239831/b865c33f-c479-474d-85ba-5f7f96ef4a3b)
-![image](https://github.com/chocoyama/WWDC/assets/7239831/e77b4c7d-48fd-49de-ab0d-34b6330418c4)
-![image](https://github.com/chocoyama/WWDC/assets/7239831/4c6eeaac-980c-4afa-bc18-48082358073a)
+- <img width="300" src="https://github.com/chocoyama/WWDC/assets/7239831/4c59c8b8-7cc8-4f1d-a17d-c2e7e54d8cbe"/><img width="300" src="https://github.com/chocoyama/WWDC/assets/7239831/4d3a6649-fc7d-483e-85bf-fcd6b8a1b623"/><img width="300" src="https://github.com/chocoyama/WWDC/assets/7239831/b96181a7-c743-4df2-9d05-31b15959d728"/><img width="300" src="https://github.com/chocoyama/WWDC/assets/7239831/278b29e9-79ef-433f-b050-ae39a37d2204"/><img width="300" src="https://github.com/chocoyama/WWDC/assets/7239831/2f8e6c85-ba22-4b6a-baa6-a71afc2b090d"/><img width="300" src="https://github.com/chocoyama/WWDC/assets/7239831/6568f4ed-f296-4cc6-9b36-0bcec789c64f"/>
