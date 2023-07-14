@@ -1,6 +1,6 @@
 # ShazamKitとは
 
-- <img width="615" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/f81fe2b5-5cf0-4a4e-9ad2-fd14856b1733">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/f17b8505-dded-40b8-a25c-dcb2c253c535"/>
 
 # カタログ探知
 
@@ -17,25 +17,25 @@
 
 # 仕組み
 
-- <img width="620" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/21534fd5-5b88-4f58-b8f9-cf4ee14947b9">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/5885c1e9-8b96-40cc-b5fb-d7acf41f0626"/>
 - Shazamは音源自体とはマッチングせず、シグネチャーと呼ぶ有損失表現を作り、それとマッチングをする
-  - <img width="614" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/e4aa08c0-eb4d-4520-92e5-00e1d1384252">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/5edc07f8-bb6a-4595-a5f5-e08883c1ce4c"/>
   - シグネチャーを使うとデータ量をとても小さくできる
   - 可逆不能なのでプライバシー面でも安全になっている
 
 # Catalog
 
 - シグネチャーをまとめたもので、メタデータも含む
-  - <img width="626" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/edf5d618-6898-4aa0-9380-ead8184458f2">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/d0b90dfe-4c5e-4307-b027-da80a1ad8dc5"/>
 - 自分でカスタムのカタログを作ることもできる
-  - <img width="624" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/a2774d48-1303-4b9a-a5e4-8c3dfb3ab6e6">
+  - <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/42665d93-1502-4747-b266-a299c79e8157"/>
 - 音源は音楽でなくても良い
   - メタデータの付与も可能で、アプリ内に保存される
-- <img width="621" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/daf35fdb-252f-4d1a-a89a-6009fbea3586">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/6afe1531-8d41-4931-9e9e-691ece3620d3"/>
 
 # 実装
 
-- <img width="624" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/e2729256-9fdf-4507-bd68-751800dd15a0">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/881ea296-f2f9-47a1-8cc7-4416f02daf52"/>
   - マイクなどの断続的でない音源とのマッチングは、`matchStreamingBuffer`を使う
-- <img width="622" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/0b2f33c9-f26e-462f-9c50-4b8618a590dd">
-- <img width="617" alt="image" src="https://github.com/chocoyama/WWDC2021/assets/7239831/3c5e8d66-2b86-4a22-a531-81c994de50b9">
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/fc94d698-0659-4124-b9aa-baed1628e208"/>
+- <img width="600" src="https://github.com/chocoyama/WWDC/assets/7239831/0bbb04cd-5ed5-4eee-b871-c1ebd5c7deb5"/>
