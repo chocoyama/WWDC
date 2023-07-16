@@ -19,6 +19,8 @@
   - <img width="636" alt="image" src="https://github.com/chocoyama/WWDC2022/assets/7239831/a1db4f22-ae85-4ebc-af36-82c01feb1d72">
 - カタログの作成
   - <img width="548" alt="image" src="https://github.com/chocoyama/WWDC2022/assets/7239831/c68a67ef-52e8-4922-b298-ded918f31842">
+- アップデートする場合
+  - <img width="600" alt="image" src="https://github.com/chocoyama/WWDC/assets/7239831/6dd8b2f8-8c55-49a2-9380-ec940d8f3493">  
 - 実装の方はこんな感じ
   - <img width="629" alt="image" src="https://github.com/chocoyama/WWDC2022/assets/7239831/1127e1a1-4394-45c3-9535-e4f1f0500086">
 
